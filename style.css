@@ -1,0 +1,21 @@
+body {font-family: helvetica;}
+
+h1 { font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+background-image: url("./pattern.jpeg");
+ }
+
+h2 {font-size: 32px;
+font-weight: bold;
+color: white;}
+
+h2#brush_id { background-color: mediumspringgreen;}
+
+h2#frames_id { background-color: lightcoral;}
+
+h2#paint_id {background-color: skyblue;}
+
+.prices { color: blue;
+font-weight: bold;}
